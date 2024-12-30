@@ -41,7 +41,6 @@ A straightforward automated hash-cracking tool designed to support multiple algo
 | argon2          | ❌ Not Yet   |
 | gost            | ❌ Not Yet   |
 | HMAC            | ❌ Not Yet   |
-| LM/NTLM         | ❌ Not Yet   |
 | scrypt          | ❌ Not Yet   |
 | tiger           | ❌ Not Yet   |
 | xxhash          | ❌ Not Yet   |
