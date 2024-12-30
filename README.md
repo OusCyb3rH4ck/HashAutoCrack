@@ -1,7 +1,11 @@
 # HashAutoCrack
 A straightforward automated hash-cracking tool designed to support multiple algorithms, offering flexibility and ease of use for cybersecurity professionals and enthusiasts.
 
-| ![image](https://github.com/user-attachments/assets/cbbfa840-9148-433e-b8cd-06bf623626b3) | ![image](https://github.com/user-attachments/assets/e7eecf20-8e8b-4e90-a9fd-0506e2a367c3) |
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/cbbfa840-9148-433e-b8cd-06bf623626b3" alt="Image 1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/e7eecf20-8e8b-4e90-a9fd-0506e2a367c3" alt="Image 2" width="45%" />
+</div>
+![image](https://github.com/user-attachments/assets/cbbfa840-9148-433e-b8cd-06bf623626b3)
 ![image](https://github.com/user-attachments/assets/4e090c27-7eab-4ea7-9eb8-7cef74bc7d45)
 ![image](https://github.com/user-attachments/assets/a0b2ec96-552e-448b-88dc-d9b09e68dd3f)
 
