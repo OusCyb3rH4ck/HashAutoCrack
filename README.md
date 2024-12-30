@@ -46,3 +46,11 @@ A straightforward automated hash-cracking tool designed to support multiple algo
 | tiger           | ❌ Not Yet   |
 | xxhash          | ❌ Not Yet   |
 
+## Installation
+- `sudo apt update && sudo apt install -y python3-pip git && sudo apt update`
+- `git clone https://github.com/OusCyb3rH4ck/HashAutoCrack`
+- `cd HashAutoCrack`
+- `chmod +x HashAutoCrack.py`
+
+## Usage
+- `./HashAutoCrack.py -h`
